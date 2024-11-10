@@ -33,7 +33,7 @@ Milestone2-WEBSITE-TAILWIND/
 ├── README.md                       # Project README file
 ├── tsconfig.json                   # TypeScript configuration
 └── ...                             # Other configuration files
-
+```
 ## Features
 - **React Components**: All pages are structured as modular React components.
 - **Tailwind CSS Styling**: Responsive design achieved through Tailwind's utility classes.
